@@ -1,0 +1,29 @@
+  li{
+    list-style-type: none;
+  
+}
+  
+  a{
+  text-decoration: none;
+  margin-left: 20PX;
+   list-style-type: none;
+   color: gray;
+   font-size: large;
+   font-weight: bold;
+}
+ul{
+    display: flex;
+    justify-content: flex-end;
+    margin-top: -100px;
+    
+    
+}
+h2{
+    text-align: center;
+    background-color:darkgreen;
+}
+img{
+    margin-top: 42px;
+    width:1249px;
+    height: 500px;
+}
